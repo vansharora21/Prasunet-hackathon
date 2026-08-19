@@ -1,6 +1,6 @@
 # Prasunet-hackathon — Catch Fraud Before It Spreads
 
-An AI-powered anti-money-laundering platform that spots suspicious money movement across accounts in real time, explains *why* an alert was raised, and hands investigators a ready-to-file report. Built for the Prasunet hackathon, for the Union Bank of India AML challenge.
+An AI-powered anti-money-laundering platform that spots suspicious money movement across accounts in real time, explains *why* an alert was raised, and hands investigators a ready-to-file report. Built for the Prasunet hackathon.
 
 ---
 
