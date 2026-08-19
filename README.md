@@ -190,3 +190,12 @@ Open `http://localhost:3000`. You land on the dashboard, which loads live data f
 3. Visit the **Fund-flow graph** and trace a money trail visually.
 4. Use the **Simulator** to fire a few transactions and watch alerts update.
 5. Generate an **STR report** from a confirmed alert and inspect the goAML XML.
+
+---
+
+## Made by
+
+Built together by a two-person team for the Prasunet hackathon.
+
+- [Vansh Arora](https://github.com/vansharora21)
+- [Satvik](https://github.com/satvik-19)
